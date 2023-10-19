@@ -1,7 +1,8 @@
 # hello-hxhkim
 Introducing Hahyun Kim.
 
-Check it out here: https://pypi.org/project/hello-hxhkim/
+View at: 
+https://pypi.org/project/hello-hxhkim/
 
 ### INSTALL
 ```bash
