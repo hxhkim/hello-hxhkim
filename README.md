@@ -30,9 +30,9 @@ $ pdm publish
 ### TEST
 ```bash
 $ pdm add -dG test pytest pytest-cov
-option 1 > $ pytest
-option 2 > $ pytest -s
-option 3 > $ pytest --cov
+$ pytest
+$ pytest -s
+$ pytest --cov
 ```
 
 ### VERSIONS
