@@ -1,12 +1,14 @@
 # hello-hxhkim
-
-### 
+Introducing Hahyun Kim.
 
 
 ### INSTALL
 ```bash
 $ pip install hello-hxhkim
 ```
+
+### USE
+
 
 ### DEV
 ```bash
@@ -17,6 +19,16 @@ $ source .venv/bin/activate
 (hello-hxhkim-3.8) $ pdm install
 ```
 
+### TEST
+```bash
+$ source .venv/bin/activate
+(hello-hxhkim-3.8) $ pdm install
+$ pdm add -dG test pytest pytest-cov
+$ pytest
+$ pytest -s
+$ pytest --cov
+```
+
 ### DEPLOY 
 ```bash
 $ pdm publish
@@ -25,14 +37,6 @@ $ pdm publish
 ### CONTRIBUTING
 ```bash
 
-```
-
-### TEST
-```bash
-$ pdm add -dG test pytest pytest-cov
-$ pytest
-$ pytest -s
-$ pytest --cov
 ```
 
 ### VERSIONS
