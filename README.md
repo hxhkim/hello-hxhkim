@@ -43,3 +43,4 @@ $ pdm publish
 
 ### VERSIONS
 0.1.0 whoau
+0.2.0 add name func
