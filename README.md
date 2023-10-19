@@ -1,5 +1,8 @@
 # hello-hxhkim
 
+### 
+
+
 ### INSTALL
 ```bash
 $ pip install hello-hxhkim
@@ -8,10 +11,10 @@ $ pip install hello-hxhkim
 ### DEV
 ```bash
 $ git clone ...
-$ cd hello-pysatellite
+$ cd hello-hxhkim
 $ pdm venv create
 $ source .venv/bin/activate
-(hello-pysatellite-3.8) $ pdm install
+(hello-hxhkim-3.8) $ pdm install
 ```
 
 ### DEPLOY 
@@ -24,5 +27,5 @@ $ pdm publish
 
 ```
 
-### VERSION
+### VERSIONS
 0.1.0 whoau
